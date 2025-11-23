@@ -1,0 +1,23 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "userIDs": [
+    "786727803721613353",
+    "1263843319746920519",
+    "1305242409034317986"
+  ],
+  "prefix": "!",
+  "disableEveryone": true,
+  "nukeSettings": {
+    "countdownTime": 30,
+    "serverName": "NUKED BY DISCOBOT",
+    "channelAmount": 500,
+    "channelName": "nuked",
+    "roleAmount": 250,
+    "roleName": "NUKED",
+    "pingMessage": "@everyone SERVER NUKED BY DiscoBot",
+    "reportUserID": [
+      "786727803721613353",
+      "1305242409034317986"
+    ]
+  }
+}
